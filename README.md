@@ -4,7 +4,7 @@ Welcome to the ShoeSavvy.com project! This is a full-stack MERN (MongoDB, Expres
 ## Features
 * User registration and authentication system.
 
-* Browse books by category, product name, description and price.
+* Browse products by category, product name, description and price.
 
 * Add products to the shopping cart and proceed to checkout.
 
